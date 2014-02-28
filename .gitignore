@@ -1,3 +1,4 @@
 app/config/parameters.yml
 logfile/access_log
 logfile/error_log
+logfile
