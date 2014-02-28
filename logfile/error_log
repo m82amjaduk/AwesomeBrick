@@ -12,3 +12,7 @@
 [Fri Feb 28 11:02:42 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
 [Fri Feb 28 11:02:44 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
 [Fri Feb 28 11:02:45 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
+[Fri Feb 28 11:09:14 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
+[Fri Feb 28 11:09:16 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
+[Fri Feb 28 11:09:17 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
+[Fri Feb 28 11:09:17 2014] [error] [client 127.0.0.1] PHP Parse error:  syntax error, unexpected 'umask' (T_STRING) in /home/amzad/dev/AwesomeBrick/sourc/web/app.php on line 6
